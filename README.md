@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Radu Dincă and @dr-atracore is the account I use for my work with Atracore.com.
+- 👋 Hi, my name is Radu Dincă and @dr-atracore is the account I use for my work with www.atracore.com.
 - 📫 You can reach me on github @dincaradu, on twitter @dincaradu or on my website https://www.dincaradu.ro
 
 <!---
